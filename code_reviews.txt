@@ -7,5 +7,11 @@ and I have already checked it for flaws" as well as "I am going to communicate w
 need this reviewed by <X> date". 
 
 2.
+Example of a good Review: https://codereview.stackexchange.com/questions/287914/partial-specialization-of-class-template-with-minimal-code-duplication
+I found this review to be helpful as first the person asking asked a very specific question and provided sufficient source code. 
+The person reviewing first started off by exaplining the overall change they would make and advice, they then broke it down into
+3 manageable changes and things to look at, specifically, explaining how the user could simplify it. They then included a way in which
+the user could rewrite their code which is very helpful. It is important to note that the user will not copy and paste but more
+look at the code and see what changes they can implement to solve their issue. Overall this was a good code review. 
 
 3.
