@@ -1,0 +1,33 @@
+I ran 
+
+apt-get update
+
+Settled with the wizard until it was installed.
+
+then ran 
+
+npm install <insert_name_of_package>
+
+for each package we needed to install. The terminal showed that it was working,
+however, the check is not agreeing. Here is an exerpt:
+
+
+[root@docable /] #  npm install curl
+npm WARN saveError ENOENT: no such file or directory, open '/package.json'
+npm WARN enoent ENOENT: no such file or directory, open '/package.json'
+npm WARN !invalid#1 No description
+npm WARN !invalid#1 No repository field.
+npm WARN !invalid#1 No README data
+npm WARN !invalid#1 No license field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+
++ curl@0.1.4
+updated 1 package and audited 585 packages in 10.58s
+
+46 packages are looking for funding
+  run `npm fund` for details
+
+found 28 vulnerabilities (12 moderate, 10 high, 6 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
+[root@docable /] #  
