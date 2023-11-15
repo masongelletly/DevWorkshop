@@ -1,0 +1,11 @@
+1. Both of the code review guidelines have a heavy focus on efficiency and transfer of knowledge. Meaning, both guidelines
+cite that the purpose of code reviews is to improve upon efficiency and improve upon the knowledge of coworkers. In terms
+of differences, Microsoft seems more focused on maintaining respect and relations between reviewer and reveiwee, while Yelp
+does not mention these aspects. Additionally, Microsoft gives a template for how to leverage emojis for efficient code reviews,
+while Yelp has no such system in place. The checklist for a review typically consists of "I do believe that my code is strong,
+and I have already checked it for flaws" as well as "I am going to communicate what this code does, what is its purpose, I 
+need this reviewed by <X> date". 
+
+2.
+
+3.
