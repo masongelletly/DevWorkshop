@@ -1,5 +1,6 @@
 # DevWorkshop
 Software Engineering Basics Workshop - workshop for branching and logic 
 
-masongelletly
-mtatiana20
+Mason Gelletly: masongelletly
+Caroline Joseph: carolinej
+Quinn Anderson, quinnanderson
