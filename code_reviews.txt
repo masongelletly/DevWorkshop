@@ -15,3 +15,7 @@ the user could rewrite their code which is very helpful. It is important to note
 look at the code and see what changes they can implement to solve their issue. Overall this was a good code review. 
 
 3.
+Example of a bad review: https://codereview.stackexchange.com/questions/127180/finding-all-non-empty-directories-and-their-files-on-an-sftp-server-with-paramik
+The second review provided a few changes to the original code that could help improve its performance. However, the reviewer did not use terminology that was
+understandable to all readers. For instance, they used language that did not help visualize the changes they were suggesting. Furthermore, they focused on less
+important parts of the original code and focused instead on naming, which is helpful but still does not answer the original question. 
